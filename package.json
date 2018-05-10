@@ -1,0 +1,24 @@
+{
+  "name": "restfulnode",
+  "version": "1.0.0",
+  "description": "servicio RESTful construido en Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vusumzi123/RESTfulNode.git"
+  },
+  "keywords": [
+    "RESTful",
+    "node",
+    "service"
+  ],
+  "author": "Vusumzi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Vusumzi123/RESTfulNode/issues"
+  },
+  "homepage": "https://github.com/Vusumzi123/RESTfulNode#readme"
+}
